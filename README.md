@@ -7,6 +7,7 @@
     <meta name="format-detection" 	content="telephone=no" />
 
 
+
     <title> UploadHaven - File Sharing Made Simple </title>
     <meta name="description" 		content=" UploadHaven - File Sharing Made Simple " />
 
@@ -24,7 +25,7 @@
     <meta name="msapplication-config" content="/img/icons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
 
-    <link media="all" type="text/css" rel="stylesheet" href="https://uploadhaven.com/css/frontend.css?id=678fda14e4e5f4e85dbc">
+    <link media="all" type="text/css" rel="stylesheet" href="sa.css">
 
     
     <style>
