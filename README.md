@@ -25,9 +25,7 @@
     <meta name="msapplication-config" content="/img/icons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
 
-    <link media="all" type="text/css" rel="stylesheet" href="sa.css">
-
-    
+    <link media="all" type="text/css" rel="stylesheet" href="https://uploadhaven.com/css/frontend.css?id=678fda14e4e5f4e85dbc">
     <style>
 
         .loginForm{
