@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title> Glassmorphism login Form | Nothing4us </title>
+  <title> Glassmorphism login form petstation</title>
   
 </head>
 <body>
@@ -11,7 +11,7 @@
 <html lang="en">
 <head>
   
-    <title>Glassmorphism login Form Tutorial in html css</title>
+    <title>Glassmorphism login Form html css</title>
  
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -159,7 +159,7 @@ button{
 
         <button>Log In</button>
         <div class="social">
-          <div class="go"><i class="fab fa-google"></i>  Google</div>
+          <div class="go"><i class="fab fa-whatsapp"></i>  WhatsApp</div>
           <div class="fb"><i class="fab fa-facebook"></i>  Facebook</div>
         </div>
     </form>
